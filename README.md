@@ -13,7 +13,7 @@ cd balance-checker
 
 ### 2. Запуск приложения
 ```bash 
-./setup.sh
+sudo ./setup.sh
 ```
 
 ### 3. Перезод по ссылке
