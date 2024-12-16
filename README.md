@@ -9,10 +9,12 @@
 ```bash
 git clone https://github.com/shifuww/balance-checker.git
 cd balance-checker
+```
 
 ### 2. Запуск приложения
 ```bash 
 ./setup.sh
+```
 
 ### 3. Перезод по ссылке
 http://0.0.0.0:3000/api#/
